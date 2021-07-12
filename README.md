@@ -5,4 +5,4 @@
 `npm install`
 `npm start`
 
-### run client/index.html in multiple tabs of browser and see the messages emitting.
+#### Run client/index.html in multiple tabs of browser and see the messages emitting.
